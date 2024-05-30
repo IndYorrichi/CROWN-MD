@@ -39,7 +39,7 @@ Dans le Champ de (Bot number) Tu vas ajouter le numero que tu souhaite ajouter l
 
 POUR ALLER SUR MORE ET CLIQUE VIEWS LOGS :
 
-<p align="center"><img align="center" width="100%" src="[https://telegra.ph/file/0c11420d30ee7a0ea8d3d.jpg" /></p>
+<p align="center"><img align="center" width="100%" src="https://telegra.ph/file/0c11420d30ee7a0ea8d3d.jpg" /></p>
 
 ET AJOUTE CE CODE DANS APPAREILS CONNECTER
 
