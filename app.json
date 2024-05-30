@@ -1,0 +1,43 @@
+
+{
+  "name":"crown md bot",
+  "description":"bot whatsapp développé par l'equipe ralzada",
+  "keywords":["bot","crownmd","baileys","whatsapp"],
+  "logo":"https://i.imgur.com/M8S9JjL.jpeg",
+  "repository":"https://github.com/mrlit-a/crown-md",
+  "succes_url":"/",
+  "stack":"container",
+  "env":{
+    "BOT_NUMBER": {
+      "description":"ajoutez le numéro avec lequel vous souhaitez devenir un bot après être allé dans le logs Heroku, vous recevrez le code d'appairage",
+      "value":"",
+      "required":true
+    },
+    "NAME_OWNER": {
+      "description": "Votre nom",
+      "required": false,
+      "value": "mrlit"
+    },
+    "NUMBER_OWNER": {
+      "description": "ajoutez le numéro que vous souhaitez ajouter en tant que propriétaire du bot",
+      "required": true,
+      "value": "13092208152"
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "addons": [
+    {
+      "plan":"heroku-postgresql"
+    }
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    }
+  ]
+}

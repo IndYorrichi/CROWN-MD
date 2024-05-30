@@ -1,0 +1,26 @@
+{
+   "owner1": "13092208152",
+   "owner_name1": "Mrlit Andy",
+   "owner2": "237699946437",
+   "owner_name2": "KAZA"
+   "owner3": "25377249517"
+   "owner3": "FARADA"
+   "database": "data",
+   "limit": 20,
+   "ram_limit": "900mb",
+   "max_upload": 500,
+   "max_upload_free": 100,
+   "cooldown": 1,
+   "timer": 180000,
+   "timeout": 1800000,
+   "permanent_threshold": 3,
+   "notify_threshold": 4,
+   "banned_threshold": 5,
+   "blocks": ["994", "91", "92"],
+   "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
+   "pairing": {
+      "state": true,
+      "number": 237670256412
+   },
+   "replit_url": ""
+}
