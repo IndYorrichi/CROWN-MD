@@ -43,8 +43,6 @@ POUR ALLER SUR MORE ET CLIQUE VIEWS LOGS :
 
 <p align="center"><img align="center" width="100%" src="https://telegra.ph/file/0a2380f6fcf4bba4ae89b.jpg" /></p>
 
-```Javascript
-
 #### Setup
 - [FORK](https://github.com/mrlit-a/crown-md/fork) this repository.
 - Inscrivez-vous et créez un compte Heroku [here](https://signup.heroku.com)
@@ -78,15 +76,17 @@ POUR ALLER SUR MORE ET CLIQUE VIEWS LOGS :
 
 Pour les autres, veuillez apprendre par vous-même à partir d'autres plugins
 
-```
 Consultez régulièrement ce repo pour obtenir des mises à jour car la base de progression n'est pas à 100 % a jour (il s'agit simplement d'un test de base ou bêta), si vous trouvez une erreur, veuillez signaler un problème. Merci.
       
-           <a
+ 
  href="https://github.com/mrlit-a/crown-md/issues">Report Bug</a>
  
  ### Thanks To
 
 - [MRLIT ANDY](https://github.com/andymrlit) for [Plugins](https://github.com/andymrlit)
+
 - [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
-[FARADA](https://github.com/Farada17) pour [m'avoir aider a realiser ce projet](https://github.com/Farada17)
-[RAZA](https://github.com/IndYorrichi) pour [m'avoir aider a creer les fichiers](https://github.com/IndYorrichi)    
+
+[FARADA](https://github.com/Farada17) pour ["m'avoir aider a realiser ce projet"](https://github.com/Farada17)
+
+[RAZA](https://github.com/IndYorrichi) pour ["m'avoir aider a creer les fichiers"](https://github.com/IndYorrichi)    
